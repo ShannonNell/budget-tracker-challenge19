@@ -23,12 +23,11 @@ ___
 ## Usage
 This application lets users enter deposits and expenses with or without an internet connection.
 
-![screenshotHere](/assets/images/ch19_screenshot.png)
+![screenshotHere](ch19_screenshot.png)
 ___
 
 ## Links
-### Walkthrough of app:
-* [Deployed Application]()
+* [Deployed Application](https://tranquil-sea-72490.herokuapp.com/)
 ___
 
 ## Tests
