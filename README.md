@@ -1,7 +1,7 @@
 # Challenge 19 PWA: Budget Tracker
 
 ## Description
-
+This application allows users to add expenses and deposits to the budget tracker with or without an internet connection. If the user enters transactions offline, the total will be updated when they're brought back online. This application uses IndexedDB, Service Workers, and a web manifest for offline functionality. 
 
 Done as a challenge for UoT's Coding Bootcamp.
 ___
@@ -10,7 +10,6 @@ ___
 * [Installation](#installation)
 * [Usage](#usage)
 * [Links](#links)
-* [Tools](#tools)
 * [Tests](#tests)
 * [Credits](#credits)
 * [License](#license)
@@ -18,26 +17,22 @@ ___
 ___
 
 ## Installation
-
+Clone the repository from GitHub to your local machine. `npm install` to install the dependencies and `npm start` to run the server.
 ___
 
 ## Usage
-
+This application lets users enter deposits and expenses with or without an internet connection.
 
 ![screenshotHere](/assets/images/ch19_screenshot.png)
 ___
 
 ## Links
 ### Walkthrough of app:
-* [Video Walkthrough]()
-___
-
-## Tools
-* node.js
-* JavaScript
+* [Deployed Application]()
 ___
 
 ## Tests
+There are no tests for this application.
 ___
 
 ## Credits
